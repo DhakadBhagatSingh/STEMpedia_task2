@@ -1,0 +1,9 @@
+[submodule "scratch-gui"]
+	path = scratch-gui
+	url = https://github.com/DhakadBhagatSingh/STEMpedia_task2.git
+[submodule "scratch-blocks"]
+	path = scratch-blocks
+	url = https://github.com/DhakadBhagatSingh/STEMpedia_task2.git
+[submodule "scratch-vm"]
+	path = scratch-vm
+	url = https://github.com/DhakadBhagatSingh/STEMpedia_task2.git
